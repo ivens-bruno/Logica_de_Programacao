@@ -1,0 +1,9 @@
+﻿  Questao23.cpp
+c:\users\ivens\documents\visual studio 2017\projects\questao23\questao23\questao23.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: consulte a declaração de 'scanf'
+c:\users\ivens\documents\visual studio 2017\projects\questao23\questao23\questao23.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: consulte a declaração de 'scanf'
+c:\users\ivens\documents\visual studio 2017\projects\questao23\questao23\questao23.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: consulte a declaração de 'scanf'
+  Questao23.vcxproj -> c:\users\ivens\documents\visual studio 2017\Projects\Questao23\Debug\Questao23.exe
+  Questao23.vcxproj -> c:\users\ivens\documents\visual studio 2017\Projects\Questao23\Debug\Questao23.pdb (Partial PDB)

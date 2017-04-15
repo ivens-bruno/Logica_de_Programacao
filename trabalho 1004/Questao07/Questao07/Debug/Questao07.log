@@ -1,0 +1,7 @@
+﻿  Questao07.cpp
+c:\users\ivens\documents\visual studio 2017\projects\questao07\questao07\questao07.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: consulte a declaração de 'scanf'
+c:\users\ivens\documents\visual studio 2017\projects\questao07\questao07\questao07.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: consulte a declaração de 'scanf'
+  Questao07.vcxproj -> c:\users\ivens\documents\visual studio 2017\Projects\Questao07\Debug\Questao07.exe
+  Questao07.vcxproj -> c:\users\ivens\documents\visual studio 2017\Projects\Questao07\Debug\Questao07.pdb (Partial PDB)

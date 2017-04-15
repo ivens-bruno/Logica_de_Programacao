@@ -1,0 +1,8 @@
+﻿  Questao40.cpp
+c:\users\ivens\documents\visual studio 2017\projects\questao40\questao40\questao40.cpp(25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\ivens\documents\visual studio 2017\projects\questao40\questao40\questao40.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: consulte a declaração de 'scanf'
+c:\users\ivens\documents\visual studio 2017\projects\questao40\questao40\questao40.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: consulte a declaração de 'scanf'
+  Questao40.vcxproj -> C:\Users\ivens\Documents\Visual Studio 2017\Projects\Questao40\Debug\Questao40.exe
+  Questao40.vcxproj -> C:\Users\ivens\Documents\Visual Studio 2017\Projects\Questao40\Debug\Questao40.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Questao32.cpp
+c:\users\ivens\documents\visual studio 2017\projects\questao32\questao32\questao32.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: consulte a declaração de 'scanf'
+  Questao32.vcxproj -> c:\users\ivens\documents\visual studio 2017\Projects\Questao32\Debug\Questao32.exe
+  Questao32.vcxproj -> c:\users\ivens\documents\visual studio 2017\Projects\Questao32\Debug\Questao32.pdb (Partial PDB)
