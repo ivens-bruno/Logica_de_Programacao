@@ -11,23 +11,28 @@ Cada ponto é um par ordenado(x, y).
 
 int main()
 {
-	int x = 0;
-	int y = 0;
-	int z = 0;
-	float hipotenusa = 0;
+	float x1 = 0;
+	float x2 = 0;
+	float y1 = 0;
+	float y2 = 0;
+	float dxy = 0;
 
-	printf("Informe o valor de X:\n");
-	scanf("%d", &x);
+	printf("Informe o primeiro valor de X:\n");
+	scanf("%f", &x1);
 	printf("\n");
-	printf("Informe o valor de Y:\n");
-	scanf("%d", &y);
+	printf("Informe o segundo valor de X:\n");
+	scanf("%f", &x2);
+	printf("\n");
+	printf("Informe o primeiro valor de Y:\n");
+	scanf("%f", &y1);
+	printf("\n");
+	printf("Informe o segundo valor de Y:\n");
+	scanf("%f", &y2);
 	printf("\n");
 
-	z = (x * x) + (y * y); // Os dois pontos do plano cartesiano formam um triangulo retangulo //
+	dxy = sqrt(pow((x2 - x1), 2) + pow((y2 - y1), 2));
 
-	hipotenusa = sqrt(z);
-
-	printf("A distancia entre X e Y eh %.2f\n\n", hipotenusa);
+	printf("A distancia entre os dois ponte eh %.2f\n\n", dxy);
 	system("pause");
     return 0;
 }
